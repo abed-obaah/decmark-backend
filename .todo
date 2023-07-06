@@ -1,0 +1,10 @@
+#15 % Commission
+    10% -> provider
+    5% -> reciever
+#3 Tipping
+#####################
+1 Verification : Create a webhook to use with verify me and then create a middleware that makes sure the user sending request has beeen verified.
+2 Messaging : 
+Notifications and Log:
+
+4 Organization Account : 
